@@ -1,2 +1,2 @@
 # ipintelligence
-This simple script extracts features such as location and organization name from an IP address.
+This python script extracts features such as geo-location and organization name from an IP address.
